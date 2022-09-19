@@ -38,7 +38,7 @@
      <dl>
         <dt>
             <a href="https://en.wikipedia.org/wiki/Frank_Sinatra" target="_blank">
-            <img src="/Images/Frank Sinatra.jpg" height="250" alt="Frank Sinatra" title="Frank Sinatra"> 
+            <img src="Images/Frank Sinatra.jpg" height="250" alt="Frank Sinatra" title="Frank Sinatra"> 
     </a> 
     <dd>Frank Sinatra 1955</dd>
      </dl>
